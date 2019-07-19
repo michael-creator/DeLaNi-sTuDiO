@@ -1,10 +1,9 @@
 h1 {
     color: whitesmoke;
-    font-family:sans-serif;
-    text-align: center;
+    
   }
   p {
-    color: rgb(34, 31, 31);
+    color: rgb(15, 14, 14);
     font-family:sans-serif;
     text-align: center;
   }
@@ -18,7 +17,8 @@ h1 {
       height: 100vh;
       background-size: cover;
   }
-  .bg-personal{
-    background-image: url(..img/IP3/assets/backgrounds/s_image.jpg);
+  .bg-personal2{
+    background-image: url(../img/IP3/assets/backgrounds/s_image.jpg);
     height: 100vh;
     background-size: cover;
+}
